@@ -19,7 +19,7 @@ I am a software engineer currently looking for a full-time SDE job. Other then t
 - ⚡ Fun fact: I lost one of my acl during a ball game
 - 📫 How to reach me: louis09392003@gmail.com || https://www.linkedin.com/in/lunghaol/
 
-```
+```javascript
 const tools = {
   frontend: ['Javascript', 'React/Redux', 'jQuery', 'HTML', 'CSS', 'styled-components'],
   backend: ['Node', 'Express', 'MySQL', 'PostgreSQL', 'mongoDB', 'Jest'],
