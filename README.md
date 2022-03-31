@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there, I am Louis:wave:
-I am a software engineer currently looking for a full-time SDE job. Other then that, I am also a mechanical engineer with master degree, entrepreneur and a good friend:sunglasses:! I love building things! I started with gundam and now I use code. I am so addicted to the feeling of curshing a hard problem. When I’m not coding, I’m probably hooping, climbing, or hanginout with my friend.
+I am a software engineer currently looking for a full-time  job. Other then that, I am also a mechanical engineer with master degree, entrepreneur and a good friend:sunglasses:! I love building things! I started with gundam and now I use code. I am so addicted to the feeling of curshing a hard problem. When I’m not coding, I’m probably hooping, climbing, or hanginout with my friend.
 
 
 - ⚡ Fun fact: I lost one of my acl during a ball game
